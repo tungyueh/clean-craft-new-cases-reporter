@@ -5,6 +5,7 @@ This project involves practicing code refactoring based on Chapter 5 of "Clean C
 ## Refactoring Steps
 
 1. Extract fields: totalCases, stateCounts, counties
+2. Extract method: extract out calculate counties and build report
 
 ## Vim tips
 
